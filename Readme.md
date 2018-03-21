@@ -48,7 +48,7 @@ myproject
 │           │    urls.py
 │           │    wsgi.py
 │           └────migrations
-│	        │	     _init_.py    
+│	        │	 _init_.py    
 │           │  	
 │	        │		
 └───────────screenshots
@@ -61,8 +61,17 @@ myproject
    ```
 
 ## Screenshots
+* *http://127.0.0.1:8000/admin/guestbook/comment/{id}/change/*
 ![a_comment.png](https://github.com/james-chege/mydjango-first-app/blob/master/screenshots/a_comment.png)
+
+* *http://127.0.0.1:8000/admin/*
 ![admin.png](https://github.com/james-chege/mydjango-first-app/blob/master/screenshots/admin.png)
+
+* *http://127.0.0.1:8000/admin/guestbook/comment/*
 ![comments.png](https://github.com/james-chege/mydjango-first-app/blob/master/screenshots/comments.png)
+
+* *http://127.0.0.1:8000/guestbook/*
 ![guestbook_comments.png](https://github.com/james-chege/mydjango-first-app/blob/master/screenshots/guestbook_comments.png)
+
+* *http://127.0.0.1:8000/guestbook/sign/*
 ![sign_page.png](https://github.com/james-chege/mydjango-first-app/blob/master/screenshots/sign_page.png)
